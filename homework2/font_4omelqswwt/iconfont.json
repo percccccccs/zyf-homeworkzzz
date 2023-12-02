@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8001838",
+      "name": "APEX英雄",
+      "font_class": "APEXyingxiong",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "15188602",
+      "name": "steam",
+      "font_class": "steam",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "15378312",
+      "name": "ea",
+      "font_class": "ea",
+      "unicode": "eb83",
+      "unicode_decimal": 60291
+    }
+  ]
+}
